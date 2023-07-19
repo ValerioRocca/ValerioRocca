@@ -1,4 +1,4 @@
-### Hello everyone! 👋
+## Hello everyone! 👋
 
 I'm Valerio, a 23 years old MSc Data Science student at UNIPD and, from September, at Université libre de Bruxelles as an exchange student.
 
